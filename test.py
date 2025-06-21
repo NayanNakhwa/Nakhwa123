@@ -6,7 +6,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Resume Portfolio</title>
+    <title>Nayan Resume Portfolio</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; background: #f4f4f4; }
         .container { background: #fff; padding: 30px; border-radius: 8px; max-width: 700px; margin: auto; }
