@@ -13,6 +13,9 @@ HTML = """
         h1 { color: #333; }
         h2 { color: #555; }
         ul { list-style-type: square; }
+        h1 { color: #333; }
+        h2 { color: #555; }
+        ul { list-style-type: square; }
     </style>
 </head>
 <body>
